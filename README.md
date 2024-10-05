@@ -28,7 +28,7 @@ Estimating toxicity levels of chemicals using Regression models.
 
 (iii) Identifies dangerous substances early.
 
-# How I jhave done this project
+# How I have done this project
 ## Similarity Searching:
 (i) Calculated molecular fingerprints.
 
